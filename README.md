@@ -1,5 +1,3 @@
-# Udacity-DEND-5-Data-Pipelines-Airflow
-
 # Udacity Data Pipelines with Airflow Project
 
 ## Introduction
